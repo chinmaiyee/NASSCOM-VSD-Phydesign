@@ -10,8 +10,8 @@ run_synthesis uses yosys and abc for synthesis
 
 
 Flop ratio = Number of D Flip flops          1613
-            ------------------------  =  ------------- = 9.7415%
-            Total Number of cells            16558
+            ------------------------  =  ------------- = 10.8426%
+            Total Number of cells            14876
 
 src verilog file for rtl present,rtl netlist
 ![image](https://github.com/user-attachments/assets/9d3340ba-ab52-460e-aa81-68e60a162ec4)
@@ -35,7 +35,9 @@ to view
 ![image](https://github.com/user-attachments/assets/cdf5715f-7199-4e54-883a-361733628585)
 
 #Day 2
-Utilization Factor = Area occupied by netlist/Total area of the core 
+Utilization Factor = Area occupied by netlist
+                    ----------------------------
+                     Total area of the core 
 Aspect Ratio = Height of Core
               ----------------
                Width of Core
