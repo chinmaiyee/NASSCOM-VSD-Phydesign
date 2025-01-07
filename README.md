@@ -89,3 +89,8 @@ Using magic
 
 ![image](https://github.com/user-attachments/assets/f25f8296-b2e7-4408-9675-9516a7818c73)
 
+Placement
+
+![image](https://github.com/user-attachments/assets/61b10af5-10e1-47e3-981b-1c54bcb82638)
+
+
