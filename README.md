@@ -44,13 +44,13 @@ netlist holds rtl
 
 ![image](https://github.com/user-attachments/assets/6bc3d855-36c0-404b-8d22-e5976db1ab98)
 
-To view 
-![image](https://github.com/user-attachments/assets/bb50919c-f0be-47a7-a223-7df7da330395)
+To view rtl
+
 ![image](https://github.com/user-attachments/assets/5994ac22-4d92-4bb3-bb27-b5a353102170)
 ![image](https://github.com/user-attachments/assets/05060c1c-0dfc-4e69-9bf1-3b4732a45723)
 ![image](https://github.com/user-attachments/assets/8d888585-c09c-4b20-b928-435bd5e6549a)
 
- 
+![image](https://github.com/user-attachments/assets/bb50919c-f0be-47a7-a223-7df7da330395)
 ![image](https://github.com/user-attachments/assets/b552e621-ff7d-44d0-a627-08cb0628728d)
 
 ![image](https://github.com/user-attachments/assets/89c64189-d94c-4547-99ab-18ac929bf218)
