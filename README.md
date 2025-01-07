@@ -37,14 +37,14 @@ to view
 
 
 
-#Day 2
+# Day-2
 Utilization Factor = Area occupied by netlist
                     ----------------------------
                      Total area of the core 
 Aspect Ratio = Height of Core
               ----------------
                Width of Core
-When the aspect ratio is 1, the chip is a square. When it is
+When the aspect ratio is 1, the chip is a square. When it is not 1,its a rectangle.
 
 Target density how close or how far your want your celss to be placed
 
