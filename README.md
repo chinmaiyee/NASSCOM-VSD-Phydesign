@@ -16,9 +16,13 @@ run_synthesis uses yosys and abc for synthesis
 
 Statistics report helps to find the number of various components/cells inside.
 
+
+![image](https://github.com/user-attachments/assets/9d3340ba-ab52-460e-aa81-68e60a162ec4)
+
 Helps in finding flop ratio
 
 ![image](https://github.com/user-attachments/assets/d862f3c9-1924-43c9-b56a-4a9b516bebb7)
+
 ![image](https://github.com/user-attachments/assets/531716c5-24fc-4b59-a4fd-574f1e5d280c)
 
 
@@ -28,8 +32,9 @@ Flop ratio = Number of D Flip flops / Total Number of Cells
 
 
 src contains the verilog file and sdc(design constraint)
+
 verilog file contains rtl from design => rtl netlist
-![image](https://github.com/user-attachments/assets/9d3340ba-ab52-460e-aa81-68e60a162ec4)
+
 
 config.tcl bypasses any changes made from default
 
