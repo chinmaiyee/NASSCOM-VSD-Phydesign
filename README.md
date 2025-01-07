@@ -83,7 +83,7 @@ Floorplan
 
 ![image](https://github.com/user-attachments/assets/b6b0b189-0061-48da-bfe9-190ea48c8d56)
 
-![image](https://github.com/user-attachments/assets/9dbbaf99-ba5e-4fa4-a83c-83f443537738)
+
 
 Using magic
 
