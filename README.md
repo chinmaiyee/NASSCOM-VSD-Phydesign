@@ -1,5 +1,5 @@
 # NASSCOM-VSD-Phydesign
-#Day-1-OPENLANE_SKYWATER130nm-openEDA
+# Day-1-OPENLANE_SKYWATER130nm-openEDA
 Use of docker for openlane.
 We use interactive mode for line by line interactive flow, aids to understand step by step.
 
