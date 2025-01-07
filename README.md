@@ -13,6 +13,11 @@ cell and layer level information combined in merged lef file
 run_synthesis uses yosys and abc for synthesis
 
 ![image](https://github.com/user-attachments/assets/1e4fb0e2-c53c-4fdb-b30c-94b0ef9e2e27)
+
+Statistics report helps to find the number of various components/cells inside.
+
+Helps in finding flop ratio
+
 ![image](https://github.com/user-attachments/assets/d862f3c9-1924-43c9-b56a-4a9b516bebb7)
 ![image](https://github.com/user-attachments/assets/531716c5-24fc-4b59-a4fd-574f1e5d280c)
 
