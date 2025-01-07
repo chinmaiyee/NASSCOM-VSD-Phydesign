@@ -8,9 +8,10 @@ run_synthesis uses yosys and abc for synthesis
 ![image](https://github.com/user-attachments/assets/531716c5-24fc-4b59-a4fd-574f1e5d280c)
 
 
-Flop ratio = Number of D Flip flops = 1613  = 0.097415 or 9.7415%
-             ______________________   _____
-             Total Number of cells    16558
+Flop ratio = Number of D Flip flops          1613
+            ------------------------  =  ------------- = 9.7415%
+            Total Number of cells            16558
+
 src verilog file for rtl present,rtl netlist
 ![image](https://github.com/user-attachments/assets/9d3340ba-ab52-460e-aa81-68e60a162ec4)
 
@@ -24,8 +25,17 @@ to view
 ![image](https://github.com/user-attachments/assets/5994ac22-4d92-4bb3-bb27-b5a353102170)
 ![image](https://github.com/user-attachments/assets/05060c1c-0dfc-4e69-9bf1-3b4732a45723)
 ![image](https://github.com/user-attachments/assets/8d888585-c09c-4b20-b928-435bd5e6549a)
+
+ 
 ![image](https://github.com/user-attachments/assets/b552e621-ff7d-44d0-a627-08cb0628728d)
 
 ![image](https://github.com/user-attachments/assets/89c64189-d94c-4547-99ab-18ac929bf218)
 
 ![image](https://github.com/user-attachments/assets/cdf5715f-7199-4e54-883a-361733628585)
+
+#Day 2
+Utilization Factor = Area occupied by netlist/Total area of the core 
+Aspect Ratio = Height of Core
+              ----------------
+               Width of Core
+When the aspect ratio is 1, the chip is a square. When it is
