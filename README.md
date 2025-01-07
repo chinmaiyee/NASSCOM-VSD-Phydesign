@@ -9,19 +9,24 @@ run_synthesis uses yosys and abc for synthesis
 ![image](https://github.com/user-attachments/assets/531716c5-24fc-4b59-a4fd-574f1e5d280c)
 
 
-Flop ratio = Number of D Flip flops          1613
-            ------------------------  =  ------------- = 10.8426%
-            Total Number of cells            14876
+Flop ratio = Number of D Flip flops / Total Number of Cells
+            = 1613/14876
+            =10.8426%
 
-src verilog file for rtl present,rtl netlist
+
+src contains the verilog file and sdc(design constraint)
+verilog file contains rtl from design => rtl netlist
 ![image](https://github.com/user-attachments/assets/9d3340ba-ab52-460e-aa81-68e60a162ec4)
 
-config.tcl by passes any changes made
+config.tcl bypasses any changes made from default
 
 ![image](https://github.com/user-attachments/assets/764f57bb-4944-4a1c-943b-8a43d917f241)
+
 netlist holds rtl
+
 ![image](https://github.com/user-attachments/assets/6bc3d855-36c0-404b-8d22-e5976db1ab98)
-to view 
+
+To view 
 ![image](https://github.com/user-attachments/assets/bb50919c-f0be-47a7-a223-7df7da330395)
 ![image](https://github.com/user-attachments/assets/5994ac22-4d92-4bb3-bb27-b5a353102170)
 ![image](https://github.com/user-attachments/assets/05060c1c-0dfc-4e69-9bf1-3b4732a45723)
@@ -58,8 +63,7 @@ Floorplan
 
 ![image](https://github.com/user-attachments/assets/61455389-60f1-4f73-97aa-61705932655d)
 ![image](https://github.com/user-attachments/assets/52686154-341a-4bb9-a03e-36d09b38b7b9)
-![image](https://github.com/user-attachments/assets/13b0662a-2f3b-4f49-9665-821ffab92609)
-![image](https://github.com/user-attachments/assets/4576892f-081f-4403-bc70-4b09a6b86e9f)
+
 ![image](https://github.com/user-attachments/assets/b6b0b189-0061-48da-bfe9-190ea48c8d56)
 
 ![image](https://github.com/user-attachments/assets/9dbbaf99-ba5e-4fa4-a83c-83f443537738)
