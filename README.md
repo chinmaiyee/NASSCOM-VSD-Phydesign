@@ -34,6 +34,9 @@ to view
 
 ![image](https://github.com/user-attachments/assets/cdf5715f-7199-4e54-883a-361733628585)
 
+
+
+
 #Day 2
 Utilization Factor = Area occupied by netlist
                     ----------------------------
@@ -42,3 +45,15 @@ Aspect Ratio = Height of Core
               ----------------
                Width of Core
 When the aspect ratio is 1, the chip is a square. When it is
+
+Target density how close or how far your want your celss to be placed
+
+Configuration file
+![image](https://github.com/user-attachments/assets/038a78d6-670b-4790-b4c9-449e3c05931f)
+![image](https://github.com/user-attachments/assets/cf2d22fa-57b7-44bb-9678-2ee4158c895d)
+![image](https://github.com/user-attachments/assets/90db327b-5018-49b6-9885-eca2d908210a)
+
+Floorplan
+![image](https://github.com/user-attachments/assets/145d3a27-2068-4264-bad0-fa8bf8952cf3)
+
+![image](https://github.com/user-attachments/assets/61455389-60f1-4f73-97aa-61705932655d)
