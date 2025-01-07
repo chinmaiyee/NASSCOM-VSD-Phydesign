@@ -57,3 +57,9 @@ Floorplan
 ![image](https://github.com/user-attachments/assets/145d3a27-2068-4264-bad0-fa8bf8952cf3)
 
 ![image](https://github.com/user-attachments/assets/61455389-60f1-4f73-97aa-61705932655d)
+![image](https://github.com/user-attachments/assets/52686154-341a-4bb9-a03e-36d09b38b7b9)
+![image](https://github.com/user-attachments/assets/13b0662a-2f3b-4f49-9665-821ffab92609)
+![image](https://github.com/user-attachments/assets/4576892f-081f-4403-bc70-4b09a6b86e9f)
+![image](https://github.com/user-attachments/assets/b6b0b189-0061-48da-bfe9-190ea48c8d56)
+
+
