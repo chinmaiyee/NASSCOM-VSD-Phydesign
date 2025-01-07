@@ -1,12 +1,12 @@
 # NASSCOM-VSD-Phydesign
 
 Use of docker for openlane.
-We use interactive mode for line by line interactuve flow, aids to understand step by step
+We use interactive mode for line by line interactuve flow, aids to understand step by step.
 
 ![image](https://github.com/user-attachments/assets/88faeb4e-8d5a-4d3d-819c-f6af626c557d)
 ![image](https://github.com/user-attachments/assets/94bd4482-9fd6-4403-adb6-bbfd4349f345)
 
-cell and layer level information combined
+cell and layer level information combined in merged lef file
 
 ![image](https://github.com/user-attachments/assets/007b9021-9372-46b8-b0b5-0ca5d9977e42)
 
